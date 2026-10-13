@@ -1,0 +1,17 @@
+# Trained machine learning models
+*.keras
+*.h5
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets
+dataset/
+datasets/
+Dataset
+Brain Tumor MRI Dataset/
